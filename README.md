@@ -13,3 +13,5 @@ Tasks and funcionalities which were accomplished/used in this project:
 You can login to the chat application with 2 different users:
 1) username: JonasSyna password: testas
 2) username: Vytas password: testas
+
+https://dovtutis-react-chat-application.netlify.app/
